@@ -9,4 +9,17 @@ $(document).ready(function() {
     $("#text-hidden").toggle();
   });
 
+
+  $("#fade-in").click(function() {
+    $("img").fadeIn("fast");
+  });
+
+  $("#fade-out").click(function() {
+    $("img").fadeOut(400);
+  });
+
+  $("#toggle-fading").click(function() {
+    $('img').fadeToggle("slow");
+  });
+
 });
