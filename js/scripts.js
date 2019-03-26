@@ -22,4 +22,9 @@ $(document).ready(function() {
     $('img').fadeToggle("slow");
   });
 
+  $(".clickable3").click(function() {
+    $("#walrus-showingH").toggle();
+    $("#walrus-hiddenH").toggle();
+  });
+
 });

@@ -25,6 +25,18 @@
   text-decoration: underline;
 }
 
+#walrus-showingH {
+  display: none;
+}
+.clickable3 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable3:hover {
+  text-decoration: underline;
+}
+
 #fade-in {
   color: violet;
   background-color: green;
@@ -52,4 +64,34 @@ h2 {
   font-weight: bold;
   padding-top: 20px;
   padding-bottom: 40px;
+}
+
+[class^="boxed-headlines"] {
+  margin-top: 40px;
+  margin-bottom: 40px;
+
+
+}
+h3 {
+  color: green;
+  font-weight: bold;
+  padding-bottom: 40px;
+
+}
+
+h5 {
+  margin-bottom: 2px;
+  margin-left: 300px;
+  font-size: 30px;
+  font-weight: bold;
+  color: darkgreen;
+
+}
+.img-head {
+
+  font-size: 20px;
+  padding-top: 20px;
+}
+.img-head p {
+  padding-bottom: 8px;
 }
