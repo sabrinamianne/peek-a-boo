@@ -25,7 +25,7 @@ _ No bugs related_
 _Contact me by e-mail at the following address : contactll@gmail.com_
 
 ## Technologies Used
-ß
+
 _HTML_
 _Bootstrap_
 _CSS_
