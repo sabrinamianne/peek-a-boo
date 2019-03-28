@@ -1,4 +1,4 @@
-# _Epicodus Code Review Intro to programming Week 1_
+# _Peek a Boo Week 2_
 
 #### _Create a Webpage with a function for hide and show an image, 03.26.2019_
 
